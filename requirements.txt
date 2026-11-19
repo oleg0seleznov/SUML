@@ -1,6 +1,7 @@
 streamlit>=1.40,<2
 pandas
 torch
+scikit-learn
 transformers==4.57.6
 sentencepiece
 sacremoses
